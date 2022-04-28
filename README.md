@@ -1,6 +1,6 @@
 # React App on TailwindCSS
 
-![Screen Banner](documentation/1.jpg)
+![Screen Banner](documentation/1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
