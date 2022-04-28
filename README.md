@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React App on TailwindCSS
+
+![Screen Banner](documentation/1.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
